@@ -16,6 +16,10 @@ public class App1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Welcome to Github Testing");
+        greatme();
     }
     
+    public static void greatme(){
+        System.out.println("Hello Github");
+    }
 }
